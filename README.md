@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @lovvgh
-- 👀 I’m interested in software
-- 🌱 I’m currently learning the mysteries of the world
-- ⚡ Fun fact: I don't exist
+- 👋 Hi, I’m lovv
+- 👀 I’m interested in software devlepment
+- 🌱 I’m currently learning how to develop my next personal project
+- ⚡ Fun fact: Love you
+  
 
 <!---
 lovvgh/lovvgh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
